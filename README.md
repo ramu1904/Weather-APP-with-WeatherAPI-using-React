@@ -2,11 +2,11 @@
 
 By building this weather app using React JS and CSS, you’ll gain the following skills:
 
-
-ReactJS Fundamentals: Get hands-on experience with React components, state management, and hooks.
-Location API Usage: Learn how to use the browser’s location API to fetch location-based data.
-API Integration: Understand how to interact with web services, handle asynchronous operations, and manage data fetching.
-Practical Application: Create a functional app that you can showcase in your portfolio or use in real-life scenarios.
+## what you learn from this 
+1. ReactJS Fundamentals: Get hands-on experience with React components, state management, and hooks.
+2. Location API Usage: Learn how to use the browser’s location API to fetch location-based data.
+3. API Integration: Understand how to interact with web services, handle asynchronous operations, and manage data fetching.
+4. Practical Application: Create a functional app that you can showcase in your portfolio or use in real-life scenarios.
 
 
 
